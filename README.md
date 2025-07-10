@@ -22,7 +22,7 @@ Install dependencies:
 pip install pandas numpy scikit-learn yfinance
 ```
 
-##📊 Output Example
+## 📊 Output Example
 
 Accurace of the model: 0.52
 [[15 20]
@@ -34,7 +34,7 @@ This output shows:
 
   Confusion matrix indicating true/false positives and negatives
 
-##📅 Data Used
+## 📅 Data Used
 
   Ticker: IBM
 
@@ -42,7 +42,7 @@ This output shows:
 
   Data Source: Yahoo Finance
 
-##⚠️ Notes
+## ⚠️ Notes
 
   This is a simple demonstration and not meant for real-world trading.
 
